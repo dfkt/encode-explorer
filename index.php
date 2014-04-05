@@ -5,21 +5,23 @@
  *   Author: Marek Rei (marek ät siineiolekala dot net)
  *   Version: 6.3
  *   Last change: 23.09.2011
- *   Homepage: encode-explorer.siineiolekala.net
- *
- *   NB!: If you change anything, save with UTF-8! Otherwise you may
- *   encounter problems, especially when displaying images.
+ *   Homepage: http://encode-explorer.siineiolekala.net
  *
  ***************************************************************************
  *
- *   This is free software and it's distributed under GPL Licence.
+ *   This is free software distributed under the GPL Licence.
  *
  *   Encode Explorer is written in the hopes that it can be useful to people.
  *   It has NO WARRANTY and when you use it, the author is not responsible
  *   for how it works (or doesn't).
- *
- *   The icon images are designed by Mark James (http://www.famfamfam.com)
+ *   
+ *   The icon images are designed by Mark James (http://www.famfamfam.com) 
  *   and distributed under the Creative Commons Attribution 3.0 License.
+ *
+ ***************************************************************************
+ *
+ *   NB!: If you change anything, save with UTF-8! Otherwise you may
+ *   encounter problems, especially when displaying images.
  *
  ***************************************************************************/
 
