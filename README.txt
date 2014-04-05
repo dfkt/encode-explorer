@@ -4,7 +4,7 @@
  *   Author: Marek Rei (marek ät siineiolekala dot net)
  *   Version: 6.3
  *   Last change: 23.09.2011
- *   Homepage: encode-explorer.siineiolekala.net
+ *   Homepage: http://encode-explorer.siineiolekala.net
  *
  ***************************************************************************
  *
