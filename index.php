@@ -10,9 +10,7 @@
  *   NB!: If you change anything, save with UTF-8! Otherwise you may
  *   encounter problems, especially when displaying images.
  *
- ***************************************************************************/
-
-/***************************************************************************
+ ***************************************************************************
  *
  *   This is free software and it's distributed under GPL Licence.
  *
